@@ -1,4 +1,4 @@
-# Hi, I'm Aliya 👋
+# Hi, I'm Aliya Munir
 
 **Business Website Developer | Front-End Developer**
 
