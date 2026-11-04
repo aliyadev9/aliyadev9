@@ -1,27 +1,28 @@
+# Hi, I'm Aliya 👋
 
-<div align="center">
-  <h1>Hi there, I'm Aliya 👋</h1>
-  <h3>Frontend Developer | @aliyadev9</h3>
-  <p><i>Building modern, fast & ultra responsive business websites 🚀</i></p>
-</div>
+**Business Website Developer | Front-End Developer**
 
----
+I help small businesses and startups build a strong online presence with clean, fast, and responsive websites.
 
-💻 <b>I build modern, fast & responsive business websites</b><br>
-🛠️ <b>Tech Stack:</b> HTML5 | CSS3 | JavaScript | Git & GitHub<br>
-🎯 <b>Focus:</b> Business Websites • Landing Pages • Portfolio Sites<br>
-🌱 <b>Currently learning:</b> React.js
+### 💻 About Me
+I'm a passionate web developer focused on creating modern and user-friendly business websites. I specialize in converting ideas into fully functional websites that look great on all devices.
 
----
+### 🛠️ Skills
+- HTML5, CSS3, JavaScript
+- Responsive Design
+- Business & Portfolio Websites
+- Git & GitHub
 
-### ✨ What I Do
-- 🏢 Modern Business Websites
-- 📱 Responsive Landing Pages  
-- 🎨 Figma to Code Conversion
-- 🔧 Website Redesign & Bug Fixes
+### 🚀 Featured Projects
+**1. Business Portfolio Website**
+A clean and responsive demo website for small businesses.
+Live: [aliyadev9.github.io](https://aliyadev9.github.io)
 
-<div align="center">
-  <br>
-  <b>📫 Let's connect! Let's build something amazing together!</b><br><br>
-  <a href="https://github.com/aliyadev9">🌐 github.com/aliyadev9</a>
-</div>
+**2. More Projects Coming Soon...**
+
+### 📫 Let's Connect
+- Portfolio: https://aliyadev9.github.io
+- LinkedIn: [Your LinkedIn Link Here]
+- Available for freelance work.
+
+> I build websites that help businesses grow.
